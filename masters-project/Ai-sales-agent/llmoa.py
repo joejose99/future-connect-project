@@ -14,7 +14,7 @@ from langchain_community.vectorstores import Chroma
 
 
 # OpenAI key
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'Enter API Key'
 
 
 # OpenAI LLM 
