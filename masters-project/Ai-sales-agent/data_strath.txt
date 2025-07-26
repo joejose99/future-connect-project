@@ -1,0 +1,1179 @@
+Advanced Computer Science with Data Science (January) | University of Strathclyde 
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Skip to content
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study with us
+
+Study with us
+Course search
+Undergraduate
+Postgraduate taught
+Postgraduate research
+Postgraduate research & PhD opportunities
+University of Strathclyde, Bahrain
+Apprenticeship Degrees
+Strathclyde Online Learning
+Scholarships
+Accommodation
+International students
+Centre for Lifelong Learning
+
+
+Work with us
+
+Work with us
+Research
+Job vacancies
+Staff search
+Training & consultancy
+Conferencing & events
+Innovation & industry engagement
+
+
+Why Strathclyde?
+
+Why Strathclyde?
+Our campus
+Employability
+Glasgow
+Scotland
+Strathclyde Sport
+News
+University governance
+Access to information
+
+
+
+
+
+
+Current students 
+
+A-Z Guide
+Email
+MyPlace
+Library
+Strathclyde Sport
+Careers
+Safe360
+Strath Union
+Pegasus
+
+
+Staff
+
+
+Email
+Pegasus
+Telephone Directory
+Safe360
+
+
+
+
+
+
+
+Website search
+
+
+
+
+
+
+
+
+
+CoursesPostgraduate taughtAdvanced Computer Science with Data Science (January)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MSc
+Advanced Computer Science with Data Science (January start)
+
+
+                            Apply
+                        
+
+
+
+
+
+
+
+
+
+Why this course?
+Course content
+Entry requirements
+Fees & funding
+Careers
+Apply
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+              Prefer to start your course in September? We also offer our MSc Advanced Computer Science with Data Science (September intake)
+            
+
+
+September intake
+
+
+
+
+
+
+Key facts
+
+
+Start date: January
+Study mode and duration: 12 months full-time
+
+
+
+
+
+Study with us
+
+gain skills to meet the challenges posed by the advent of the data revolution
+
+
+understand how classical statistical techniques are applied in modern data analysis
+
+
+work on a research project with our industrial partners
+
+Prefer to start your course in September? We also offer our MSc Advanced Computer Science with Data Science with a September start date.
+
+
+
+
+
+
+Why this course?
+
+
+
+Back to course
+
+
+
+
+Why this course?
+Our MSc Advanced Computer Science with Data Science (January start) gives you the skill set needed in a range of industries. You'll gain an understanding of the new challenges posed by the data revolution, particularly in relation to its modelling, storage and access.
+Data scientists are in high demand across a number of sectors, as businesses require people with the right combination of technical, analytical and communication skills. (Prospects, 2022).
+Opportunities for graduates exist in a range of industries such as finance, films and games, pharmaceuticals, health care, consumer products and public services. Our MSc Advanced Computer Science with Data Science (January start) gives you the skill set needed.
+You’ll also have the opportunity to participate in recruitment events and meet industry employers such as JP Morgan, Adimo, JWF and more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What you’ll study
+You'll choose leading classes that span the breadth of both computer and information sciences, including:
+
+machine learning
+deep learning
+data wrangling
+legal and ethical aspects of data science
+software engineering
+use of contemporary tools and packages
+
+You'll understand key algorithms and techniques embodied within data analytics solutions and be exposed to a number of different data technologies and techniques. You’ll see how they can achieve efficiency and scalability, while also addressing design trade-offs and their impacts.
+You'll learn key technologies that are at the heart of data analytics such as Keras and Tensorflow. You'll also be equipped with a sound understanding of the principles of machine learning and deep learning and a range of popular approaches, along with the knowledge of how and when to apply these.
+On this Masters course you’ll also have the opportunity to implement and experiment with these machine learning algorithms using the most popular languages such as R and Python, explore their applications to areas as diverse as analysing activity-related data captured using a smartphone to financial time-series prediction.
+Throughout the course we offer opportunities to engage with industry through IT careers fairs, guest lectures from local industry, industrially sponsored projects, specialist sessions from our University Careers Service and student demo days to industry.
+
+
+
+
+Research project
+Our project supervision programme ensures a named academic is attached to every MSc student during their project study between May and August each year. Regular meetings are scheduled during the period of the project work, and where an external organisation is involved, meetings between supervisor, student and external body are standard. We have extensive experience of supporting students in placement and thus are well equipped and experienced to manage both university and placement provider expectations.
+Facilities
+The course will involve some extensive laboratory-based instruction and student work. The Department of Computer and Information Science utilise their own specialist laboratories to provide practical student tuition on large scale advanced applications.
+The University library also has a sufficient body of resources to support this course.
+ 
+
+
+
+
+
+
+
+
+
+
+
+                    Course content
+                
+
+
+
+Go back
+
+
+
+Course content
+Select 40 credits from the elective modules. Please note, elective modules are subject to change.
+
+
+
+
+
+
+Go back
+
+
+
+
+
+
+
+
+
+
+January to March
+Compulsory
+
+
+Research Methods (10 credits)
+
+
+
+This module aims to provide you with an understanding of both quantitative and qualitative research processes and associated techniques, including the effective presentation of findings in accordance with the best principles of scholarship.
+
+
+
+
+Distributed Information Systems (20 credits)
+
+
+
+This module will give you an extended understanding of the deep, technical issues underlying information systems, in the particular context of distributing content over the world-wide web.
+
+
+
+
+Machine Learning for Data Analytics (20 credits)
+
+
+
+The aim of this module is to equip you with a sound understanding of the principles of machine learning and a range of popular approaches, along with the knowledge of how and when to apply the techniques. The module balances a solid theoretical knowledge of the techniques with practical application via Python (and associated libraries) and you are expected to be familiar with the language. Aspects of the course will be highly mathematical and technical requiring strong math and programming ability (Python and Tensorflow).
+
+
+
+Electives
+
+
+Mobile Software & Applications (20 credits)
+
+
+
+By the end of the module you should be able to:
+
+appreciate and explain the problems associated with mobile software environments
+identify and explain the models and techniques typically employed in the design and development of a range of software for mobile environments, and appreciate the limitations of these
+appreciate the role and impact of context-awareness and persuasion in modern mobile applications
+demonstrate the ability to implement selections from a range of the software typically used in mobile environments
+
+
+
+
+
+Evolutionary Computing for Finance (20 credits)
+
+
+
+This module aims to provide an overview of the application of evolutionary computation techniques – those which mimic natural evolutionary processes (genetic algorithms, genetic programming and neural networks in particular) – to a range of financial applications such as forecasting, portfolio optimisation and algorithmic trading.
+
+
+
+
+Business Analysis (10 credits)
+
+
+
+This module aims to provide tools and techniques for the effective analysis and design of business information systems and enable you to develop an understanding of their respective advantages, disadvantages and applicability.
+
+
+May to August
+Research Project (60 credits)
+Over the summer semester, from May until August, you'll undertake a significant piece of work that will be your MSc project.  This is typically a very practical activity, and can include:
+
+analysing a problem and designing, implementing and evaluating a solution
+conducting an in-depth experimental analysis of technique or technology
+performing an analysis of a large data set, and building and evaluating models of the data
+
+We'll also have a range of projects available that are sponsored by our staff based on their latest research, and many that come direct from the employers we work with, representing real-world problems they are trying to solve.
+September to December
+Compulsory
+
+
+Legal, Ethical and Professional Issues for the Information Society (10 credits)
+
+
+
+This module aims to ensure that you're aware of the legal, social, ethical and professional issues commensurate with the practice of Information Systems Engineering. 
+
+
+
+
+Deep Learning Theory & Practices (20 credits)
+
+
+
+By the end of the module you should be able to:
+
+understand the challenges in the training of deep neural network and how to overcome the challenges with few shot learning techniques
+understand how to process sequential data with deep neural network and the applications in natural language processing
+develop an understanding of the potentials and generalisation of deep neural networks through theoretical analysis
+understand deep generative models and their main approaches
+understand how to build deep neural networks in Python using packages such as Keras/PyTorch and implement such networks
+
+
+
+
+Electives
+
+
+Advanced Topics in Software Engineering (20 credits)
+
+
+
+This module aims to introduce you to a selection of recent advances in software engineering, along with some of the challenges and outstanding problems.
+The current focus of the module is on the use of AI-based techniques to address significant software engineering problems, and to put these into practice on real problems and evaluate their effectiveness.
+
+
+
+
+Information Retrieval (10 credits)
+
+
+
+You'll learn to:
+
+critically examine a number of influential information-seeking models
+provide an understanding of research methodologies for studying human information behaviour
+examine important concepts, such as relevance, in the context of information seeking and retrieval
+examine how findings from information seeking theory and practise can inform the design of information access systems
+outline the theory and technology used to construct modern Information Retrieval and Access systems
+critically evaluate the assumptions behind the evaluation of Information Retrieval systems
+
+
+
+
+
+Big Data Technologies (20 credits) 
+
+
+
+In this module you will learn to: 
+
+understand the fundamentals of Python to enable the use of various big data technologies
+understand how classical statistical techniques are applied in modern data analysis
+understand the potential application of data analysis tools for various problems and appreciate their limitations
+be familiar with a number of different cloud NoSQL systems and their design and implementation, showing how they can achieve efficiency and scalability while also addressing design trade-offs and their impacts
+be familiar with the Map-Reduce programming paradigm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learning & teaching
+Our teaching and learning methods include lectures, tutorials, laboratory practicals and combinations of individual and group work. These will not only develop your expertise in computer science and data science, but also in communication, team-working and analytical skills which are all essential skills for your future career.
+Class material will be placed on Myplace for students to gain access to in their own time. A personal computer (microcomputer, desktop computer, laptop computer, tablet) is required to access teaching materials and attending online lectures/meeting. The computer lab is also available for students to use.
+You’ll have regular contact with our expert staff, many of whom have been nominated for, and won, teaching awards based on nominations by our students.
+Assessment
+Methods of assessment and learning: written examinations, formative and summative approaches are taken in different aspects of the course. Written group/individual reports, oral presentations and moderated peer assessment are all included in the course.
+
+
+
+
+
+
+
+
+
+                           Entry requirements
+                       
+
+
+
+Back to course
+
+
+
+Entry requirements
+
+
+
+
+
+
+
+
+
+
+
+Go back
+
+
+
+Academic requirementsMinimum second-class (2:2) Honours degree or international equivalent in computer science or another numerate discipline (for example, mathematics, physics or engineering).
+Some programming or database experience is normally required.
+Other disciplines who have significant programming experience should contact us to discuss applying for this course.
+English language requirementsYou must have an English language minimum score of IELTS 6.0 (with no component below 5.5).
+We offer comprehensive English language courses for students whose IELTS scores are below 6.0. Please see English Language Teaching for full details.
+As a university, we now accept many more English language tests other than IELTS for overseas applicants, for example, TOEFL and PTE Cambridge. View the full list of accepted English language tests here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chat to a student ambassador
+Want to know more about what it’s like to be a Science student at the University of Strathclyde? A selection of our current students are here to help!
+Our Unibuddy ambassadors can answer all your questions about courses and studying at Strathclyde and offer insight into their experiences of life in Glasgow and Scotland.
+
+                          
+                          Chat to a student ambassador
+                          
+
+
+
+
+
+
+
+
+
+
+
+International students
+We've a thriving international community with students coming here to study from over 140 countries across the world. Find out all you need to know about studying in Glasgow at Strathclyde and hear from students about their experiences.
+
+                          
+                          Visit our international students' section
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Fees & funding
+            
+
+
+
+Back to course
+
+
+
+Fees & funding
+All fees quoted are for full-time courses and per academic year unless stated otherwise.
+
+Fees may be subject to updates to maintain accuracy. Tuition fees will be notified in your offer letter.
+All fees are in £ sterling, unless otherwise stated, and may be subject to revision.
+Annual revision of fees
+Students on programmes of study of more than one year (or studying standalone modules) should be aware that the majority of fees will increase annually. The University will take a range of factors into account, including, but not limited to, UK inflation, changes in delivery costs and changes in Scottish and/or UK Government funding. Changes in fees will be published on the University website in October each year for the following year of study and any annual increase will be capped at a maximum of 10% per year.
+
+
+
+
+
+
+January 2026
+
+
+
+Go back
+
+
+
+Scotland£11,900
+England, Wales & Northern Ireland£11,900
+
+Republic of Ireland
+
+If you are an Irish citizen and have been ordinary resident in the Republic of Ireland for the three years prior to the relevant date, and will be coming to Scotland for Educational purposes only, you will meet the criteria of England, Wales & Northern Ireland fee status. For more information and advice on tuition fee status, you can visit the UKCISA - International student advice and guidance - Scotland: fee status webpage. Find out more about the University of Strathclyde's fee assessments process.
+
+
+International£30,250
+Available scholarshipsTake a look at our scholarships search for funding opportunities.
+Additional costsInternational students may have associated visa and immigration costs. Please see student visa guidance for more information.
+
+
+
+
+
+
+
+Please note: the fees shown are annual and may be subject to an increase each year. Find out more about fees.
+
+
+
+
+
+
+
+
+
+
+How can I fund my course?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Students from Scotland
+
+
+Go back
+
+Scottish postgraduate students
+Scottish postgraduate students may be able to apply for support from the Student Awards Agency Scotland (SAAS). The support is in the form of a tuition fee loan and for eligible students, a living cost loan. Find out more about the support and how to apply.
+Don’t forget to check our scholarship search for more help with fees and funding.
+
+
+Students from England
+
+
+Go back
+
+Students coming from England
+Students ordinarily resident in England may be to apply for postgraduate support from Student Finance England. The support is a loan of up to £10,280 which can be used for both tuition fees and living costs. Find out more about the support and how to apply.
+Don’t forget to check our scholarship search for more help with fees and funding.
+
+
+Students from Wales
+
+
+Go back
+
+Students coming from Wales
+Students ordinarily resident in Wales may be to apply for postgraduate support from Student Finance Wales. The support is a loan of up to £10,280 which can be used for both tuition fees and living costs. Find out more about the support and how to apply.
+Don’t forget to check our scholarship search for more help with fees and funding.
+
+
+Students from Northern Ireland
+
+
+Go back
+
+Students coming from Northern Ireland
+Postgraduate students who are ordinarily resident in Northern Ireland may be able to apply for support from Student Finance Northern Ireland. The support is a tuition fee loan of up to £5,500. Find out more about the support and how to apply.
+Don’t forget to check our scholarship search for more help with fees and funding.
+
+
+International students
+
+
+Go back
+
+International students
+We've a large range of scholarships available to help you fund your studies. Check our scholarship search for more help with fees and funding.
+
+
+
+
+
+
+
+Glasgow is Scotland's biggest & most cosmopolitan city
+Our campus is based right in the very heart of Glasgow. We're in the city centre, next to the Merchant City, both of which are great locations for sightseeing, shopping and socialising alongside your studies.
+
+                          
+                          Life in Glasgow
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Careers
+                    
+
+
+
+Back to course
+
+
+
+Careers
+There will be opportunities for you to meet industry employers and take part in recruitment events, in addition to taking advantage of a wealth of support offered by our award-winning careers service.
+Opportunities for graduates of the MSc Advanced Computer Science with Data Science exist in various industries:
+
+finance
+films and games
+pharmaceuticals
+healthcare
+consumer products
+public services
+
+
+
+
+Salaries*
+
+
+CareerSalary
+
+Data scientist 
+Salaries for junior data scientists tend to start at around £25,000 to £30,000, rising to £40,000 depending on your experience. With a few years' experience you can expect to earn between £40,000 and £60,000. Lead and chief data scientists can earn upwards of £60,000, in some cases reaching more than £100,000.
+
+
+Data analyst
+Entry-level salaries for Data Analyst’s range between £23,000 and £25,000. Graduate schemes in data analysis and business intelligence at larger companies tend to offer a higher starting salary of £25,000 to £30,000. With a few years' experience, salaries can rise to between £30,000 and £35,000. Experienced, high-level and consulting jobs can command £60,000 or more.           
+
+
+Software engineer
+Typical graduate software engineer salaries start from £28,000 a year. With a few years experience this can range to between £40,000 and £60,000. At senior or management level, software engineers can earn up to £70,000 or more per annum. Bonus schemes may be available.
+
+
+
+*Information taken from Prospects (last accessed July 2024)
+
+
+
+
+
+
+
+
+
+
+
+                        Apply
+                    
+
+
+
+Back to course
+
+
+
+Apply
+To apply for September 2025 entry, please visit MSc Advanced Computer Science with Data Science.
+
+
+
+
+
+
+
+
+
+
+Start date: Jan 2026
+
+
+
+
+Advanced Computer Science with Data Science (January intake)
+
+MSc
+full-time
+Start date: Jan 2026
+
+
+
+
+
+
+
+
+
+
+Apply now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact us
+
+
+
+Back to course
+
+
+
+Contact us
+
+
+
+
+
+PGT Admissions Team
+Telephone: +44 (0)141 553 6023
+
+Email: science-masters@strath.ac.uk
+
+
+
+Chat with us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Have you considered?
+We've a range of postgraduate taught and Masters courses similar to this one which may also be of interest.
+
+
+
+Advanced Computational Mathematics (MSc)
+Advanced Computer Science (MSc)
+Advanced Computer Science (January start) (MSc)
+Advanced Computer Science with Data Science (MSc)
+Advanced Computer Science with Data Science (January start) (MSc)
+Advanced Computer Science with Artificial Intelligence (MSc)
+Advanced Computer Science with Software Engineering (MSc)
+Advanced Computer Science with Software Engineering (MSc) (January start)
+Advanced Mathematical Modelling (MSc)
+Cyber Security (MSc)
+
+
+
+
+
+
+Artificial Intelligence & Applications (MSc)
+Digital Health Systems (MSc)
+Information Management (MSc)
+Information & Library Studies (MSc)
+Machine Learning & Deep Learning (MSc)
+Software Development (MSc)
+Sport Data Analytics (MSc)
+Chemistry with Artificial Intelligence (MSc)
+Chemistry with Data Science (MSc)
+Advanced Data Science (MSc)
+Statistics & Data Science (MSc)
+
+
+
+
+
+
+
+
+ Back to top
+
+
+
+
+Our faculties & departments 
+
+
+
+
+Engineering
+
+Faculty of Engineering
+Architecture
+Biomedical Engineering
+Chemical & Process Engineering
+Civil & Environmental Engineering
+Design, Manufacturing & Engineering Management
+Electronic & Electrical Engineering
+Mechanical & Aerospace Engineering
+Naval Architecture, Ocean & Marine Engineering
+
+
+
+Humanities & Social Sciences
+
+Faculty of Humanities & Social Sciences
+Centre for Lifelong Learning
+Education
+Government & Public Policy
+Humanities
+Law
+Psychological Sciences & Health
+Social Work & Social Policy
+
+
+
+Science
+
+Faculty of Science
+Computer & Information Sciences
+Mathematics & Statistics
+Physics
+Pure & Applied Chemistry
+Strathclyde Institute of Pharmacy & Biomedical Sciences
+
+
+
+Strathclyde Business School
+
+Strathclyde Business School
+Accounting & Finance
+Economics
+Hunter Centre for Entrepreneurship, Strategy & Innovation
+Management Science
+Marketing
+MBA & General Management
+Strathclyde Executive Education & Development
+Work, Employment & Organisation
+
+
+
+
+
+
+
+
+
+
+
+
+Professional services
+
+
+
+
+
+
+Access, Equality & Inclusion Service
+Alumni & Development
+Careers Service
+Conferencing & Events
+Disability & Wellbeing Service
+Education Enhancement
+Equality & Diversity
+Estates Services
+Finance Directorate
+Human Resources
+
+
+
+
+Information Governance Unit
+Information Services Directorate
+Internal Audit
+Innovation & Industry Engagement
+Legal Services
+Library
+Occupational Health
+Procurement
+Research & Knowledge Exchange Services
+
+
+
+
+Safety, Wellbeing & Resilience
+Strategy & Planning
+Strathclyde Print
+Strathclyde Sport
+Student Experience
+Student Lifecycle
+Widening Access
+
+
+
+
+
+
+
+
+
+
+
+
+
+Online services
+
+
+
+
+
+
+
+Student/Staff email
+Myplace
+PEGASUS
+PURE
+KnowledgeBase
+
+
+
+
+Timetables
+Lab availability
+Telephone Directory
+Report IT problems & IT Service Status
+Service Catalogue
+
+
+
+
+ULab
+SharePoint
+Zoom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional services
+
+
+
+
+
+
+
+Online services
+
+
+
+
+
+
+
+Quick links
+
+Website Privacy Policy 
+Cookie Notice
+Accessibility Statement
+Equality & Diversity
+Modern Slavery Statement
+Access to Information
+Complaints Procedure
+Vacancies
+
+
+
+
+
+
+Get in touch
+
+Ways to contact the University of Strathclyde
+
+Connect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The University of Strathclyde is a charitable body, registered in Scotland, number SC015263.
+
